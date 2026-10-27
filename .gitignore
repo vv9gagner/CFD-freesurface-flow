@@ -1,0 +1,5 @@
+*/build/
+output/
+*/output/
+runs/
+.DS_Store
